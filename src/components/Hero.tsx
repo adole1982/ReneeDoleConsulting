@@ -59,7 +59,7 @@ export default function Hero() {
             </p>
             <a href="#contact">
               <button className="text-[10px] tracking-[0.2em] font-semibold text-white border border-white/60 px-5 py-3 hover:bg-white hover:text-primary transition-all duration-300 uppercase">
-                Book Strategic Audit
+                GET IN TOUCH
               </button>
             </a>
           </motion.div>
@@ -111,7 +111,7 @@ export default function Hero() {
             </p>
             <a href="#contact">
               <Button className="w-fit bg-white text-primary border border-white hover:bg-transparent hover:text-white rounded-none px-8 py-6 text-sm tracking-[0.2em] font-medium transition-all duration-300">
-                BOOK STRATEGIC AUDIT
+                GET IN TOUCH
               </Button>
             </a>
           </motion.div>

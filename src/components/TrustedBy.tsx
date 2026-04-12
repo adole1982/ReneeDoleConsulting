@@ -7,8 +7,7 @@ const logos = [
   { name: "Cox",                      src: "/logos/clients/cox.svg" },
   { name: "WSFS Bank",                src: "/logos/clients/wsfs.svg" },
   { name: "Lincoln Financial Group",  src: "/logos/lincoln.svg" },
-  { name: "Make-A-Wish",              src: "/logos/clients/makeawish.svg" },
-  { name: "America's Blood Centers",  src: "/logos/clients/americanblood.svg" },
+  { name: "DLL",                      src: "/logos/clients/dll.svg" },
 ];
 
 export default function TrustedBy() {

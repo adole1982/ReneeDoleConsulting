@@ -28,7 +28,6 @@ const clients = [
   { name: "Charter Communications",  logo: "/logos/clients/charter.svg" },
   { name: "WSFS Bank",               logo: "/logos/clients/wsfs.svg" },
   { name: "Cox",                     logo: "/logos/clients/cox.svg" },
-  { name: "Make-A-Wish",             logo: "/logos/clients/makeawish.svg" },
   { name: "DLL",                     logo: "/logos/clients/dll.svg" },
 ];
 
