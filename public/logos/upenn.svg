@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 70" fill="none">
+  <!-- Shield shape -->
+  <path d="M20 8 L52 8 L52 42 Q52 58 36 64 Q20 58 20 42 Z" fill="#011F5B"/>
+  <path d="M26 14 L46 14 L46 40 Q46 53 36 58 Q26 53 26 40 Z" fill="none" stroke="#990000" stroke-width="1.5"/>
+  <!-- Book icon simplified -->
+  <rect x="30" y="28" width="12" height="10" rx="1" fill="#FFFFFF" opacity="0.9"/>
+  <line x1="36" y1="28" x2="36" y2="38" stroke="#990000" stroke-width="1"/>
+  <!-- Text -->
+  <text x="62" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="700" letter-spacing="1" fill="#011F5B">UNIVERSITY OF</text>
+  <text x="62" y="48" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="700" letter-spacing="1" fill="#011F5B">PENNSYLVANIA</text>
+</svg>
