@@ -24,11 +24,10 @@ const experience = [
 ];
 
 const clients = [
-  { name: "Costco",                  logo: "/logos/clients/costco.svg" },
-  { name: "Charter Communications",  logo: "/logos/clients/charter.svg" },
-  { name: "WSFS Bank",               logo: "/logos/clients/wsfs.svg" },
-  { name: "Cox",                     logo: "/logos/clients/cox.svg" },
-  { name: "DLL",                     logo: "/logos/clients/dll.svg" },
+  { name: "Charter Communications",  logo: "/logos/clients/charter.png" },
+  { name: "WSFS Bank",               logo: "/logos/clients/wsfs.png" },
+  { name: "Cox",                     logo: "/logos/clients/cox.png" },
+  { name: "DLL",                     logo: "/logos/clients/dll.png" },
 ];
 
 export default function AboutPage() {
