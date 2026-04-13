@@ -2,7 +2,6 @@ import { motion } from "motion/react";
 
 const logos = [
   { name: "Comcast NBCUniversal",     src: "/logos/comcast.svg" },
-  { name: "Costco",                   src: "/logos/clients/costco.svg" },
   { name: "Charter Communications",   src: "/logos/clients/charter.svg" },
   { name: "Cox",                      src: "/logos/clients/cox.svg" },
   { name: "WSFS Bank",                src: "/logos/clients/wsfs.svg" },
