@@ -24,7 +24,6 @@ const experience = [
 ];
 
 const clients = [
-  { name: "C",                  logo: "/logos/clients/costco.svg" },
   { name: "Charter Communications",  logo: "/logos/clients/charter.svg" },
   { name: "WSFS Bank",               logo: "/logos/clients/wsfs.svg" },
   { name: "Cox",                     logo: "/logos/clients/cox.svg" },
