@@ -16,21 +16,21 @@ const services = [
     title: "CAREER CONSULTING",
     subtitle: "Individual Career Strategy",
     description:
-      "Strategic guidance for professionals navigating transitions, pursuing advancement, or defining their next chapter. Renee partners with clients to clarify direction, build confidence, and craft a compelling professional narrative.",
+      "Strategic guidance for professionals navigating transitions, pursuing advancement, or defining their next chapter. Renee partners with clients to define and validate their next career move, craft a compelling professional narrative, and execute a targeted strategy that drives measurable advancement.",
   },
   {
     icon: Presentation,
     title: "LEADERSHIP FACILITATION",
     subtitle: "High-Impact Workshops & Offsites",
     description:
-      "Expert facilitation of leadership workshops, team sessions, and executive offsites designed to align teams, surface insight, and elevate culture. Renee brings structure, energy, and expertise to every session.",
+      "Expert facilitation of leadership workshops, team sessions, and executive offsites designed to align teams, uncover meaningful insights, and elevate culture. Renee brings structure, energy, and deep expertise—adapting in real time to the needs of each audience to maximize impact.",
   },
   {
     icon: BookOpen,
     title: "LEADERSHIP PROGRAMS",
     subtitle: "Curricula & Program Design",
     description:
-      "Tailored leadership development programs built to scale — from onboarding frameworks to multi-tier leadership tracks. Renee has designed and delivered 8+ programs across Fortune 500 organizations to build talent pipelines that last.",
+      "Tailored leadership development programs built to scale — from onboarding frameworks to multi-tier leadership tracks. Renee has designed and delivered high-impact programs across Fortune 500 organizations, spanning levels, functions, and business lines to build resilient, future-ready talent pipelines.",
   },
 ];
 

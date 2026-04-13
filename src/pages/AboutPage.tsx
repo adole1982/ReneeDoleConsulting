@@ -98,10 +98,10 @@ export default function AboutPage() {
               </h2>
               <div className="space-y-4 text-lg text-primary/80 font-light leading-relaxed">
                 <p>
-                  Renee Dole specializes in executive coaching, career consulting, and facilitation of group professional development. She has worked with both corporate and individual clients on executive coaching, career consulting, leadership program development and facilitation, and curriculum design.
+                  Renee Dole is an executive coach, career strategist, and facilitator specializing in leadership development and high-impact professional growth. She partners with both corporate and individual clients to deliver executive coaching, career strategy, leadership program design, and facilitation across a wide range of organizations and industries.
                 </p>
                 <p>
-                  Renee's client approach is focused on developing effective and efficient strategies for success within the specific organizational culture. Her coaching focus is engaging with leaders that have a proven track record of success to proactively develop personal strategies for professional and personal growth.
+                  Renee's approach is grounded in helping clients navigate the realities of their organizational environment—developing clear, actionable strategies that align with both business context and individual goals. She works primarily with high-performing leaders to refine their leadership approach, elevate their impact, and execute with intention as they advance in their careers.
                 </p>
               </div>
             </motion.div>
@@ -131,7 +131,7 @@ export default function AboutPage() {
               </h2>
               <div className="w-16 h-1 bg-accent mb-4" />
               <p className="text-sm text-primary/70 font-light leading-relaxed">
-                Renee's background spans Leadership Development at Fortune 500 companies, where she developed and managed <strong className="font-semibold text-primary/90">8 distinct leadership programs</strong> across coaching, curriculum design, and facilitation.
+                Renee's background spans Leadership Development within Fortune 500 organizations, where she has developed and managed leadership programs across coaching, curriculum design, and facilitation—spanning levels, functions, skill sets, and business lines.
               </p>
             </motion.div>
 
@@ -149,7 +149,7 @@ export default function AboutPage() {
               </h2>
               <div className="w-16 h-1 bg-accent mb-4" />
               <p className="text-sm text-primary/70 font-light leading-relaxed">
-                A Wharton School foundation extended through graduate studies at <strong className="font-semibold text-primary/90">Oxford University and HEC Paris</strong>, complemented by certifications in coaching, assessment, and leadership.
+                A foundation at the Wharton School, complemented by a Master's in Organizational Dynamics from the University of Pennsylvania, with additional graduate study at University of Oxford and HEC Paris, alongside certifications in Coaching, Organizational Diagnosis, and Leadership.
               </p>
             </motion.div>
 

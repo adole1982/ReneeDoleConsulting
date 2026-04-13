@@ -38,13 +38,13 @@ export default function About() {
             </h2>
             <div className="space-y-6 text-lg text-primary/80 font-light leading-relaxed">
               <p>
-                Renee Dole is a seasoned executive coach and consultant with over 20 years of experience in human resources, leadership development, and organizational strategy.
+                Renee Dole is an executive coach and consultant with over 20 years of experience in human resources, leadership development, and organizational strategy.
               </p>
               <p>
-                Her approach is rooted in the belief that every individual and organization has the potential for greatness. By combining strategic insight with empathetic listening, she helps clients navigate complex challenges and achieve meaningful results.
+                Her approach is grounded in helping leaders and organizations navigate complexity with clarity—combining strategic insight with practical, actionable execution. She partners with clients to strengthen leadership effectiveness, elevate impact within their current roles, and strategically position themselves for continued growth.
               </p>
               <p>
-                Whether you are an executive looking to level up your leadership, or an organization seeking to build a high-performing culture, Renee provides the expertise and partnership needed to succeed.
+                Whether working with executives to strengthen leadership effectiveness and elevate their impact or advising clients on career direction and advancement, Renee brings the expertise and structure needed to drive results. She adapts her approach to each client to ensure meaningful, lasting impact.
               </p>
             </div>
             
