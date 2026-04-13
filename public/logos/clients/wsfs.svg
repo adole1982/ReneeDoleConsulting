@@ -1,4 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 48">
-  <text x="90" y="26" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" letter-spacing="3" fill="#00529B" text-anchor="middle">WSFS</text>
-  <text x="90" y="41" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" letter-spacing="3" fill="#00529B" text-anchor="middle">BANK</text>
+  <!-- WSFS accent bar -->
+  <rect x="14" y="10" width="4" height="28" fill="#005baa" rx="1"/>
+  <text x="26" y="26" font-family="Arial Black,Arial,sans-serif" font-size="19" font-weight="900" fill="#005baa" letter-spacing="4">WSFS</text>
+  <line x1="26" y1="30" x2="162" y2="30" stroke="#005baa" stroke-width="1.5"/>
+  <text x="26" y="42" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="400" fill="#005baa" letter-spacing="5">BANK</text>
 </svg>

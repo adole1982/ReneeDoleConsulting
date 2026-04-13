@@ -1,3 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 48">
-  <text x="90" y="34" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.5" fill="#D2232A" text-anchor="middle">comcast</text>
+  <!-- NBC Peacock — 6 feathers radiating from fan center -->
+  <g transform="translate(20,29)">
+    <ellipse cx="0" cy="-10" rx="2.8" ry="11" fill="#e3051b" transform="rotate(-62.5)"/>
+    <ellipse cx="0" cy="-10" rx="2.8" ry="11" fill="#f7941d" transform="rotate(-37.5)"/>
+    <ellipse cx="0" cy="-10" rx="2.8" ry="11" fill="#ffd400" transform="rotate(-12.5)"/>
+    <ellipse cx="0" cy="-10" rx="2.8" ry="11" fill="#00a651" transform="rotate(12.5)"/>
+    <ellipse cx="0" cy="-10" rx="2.8" ry="11" fill="#27aae1" transform="rotate(37.5)"/>
+    <ellipse cx="0" cy="-10" rx="2.8" ry="11" fill="#662d91" transform="rotate(62.5)"/>
+  </g>
+  <text x="43" y="26" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#000000" letter-spacing="-0.4">comcast</text>
+  <text x="43" y="39" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="9.5" font-weight="300" fill="#444444" letter-spacing="0.3">NBCUniversal</text>
 </svg>

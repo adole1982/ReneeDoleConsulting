@@ -1,4 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 48">
-  <text x="90" y="25" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" letter-spacing="3" fill="#003366" text-anchor="middle">LINCOLN</text>
-  <text x="90" y="41" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" letter-spacing="2.5" fill="#003366" text-anchor="middle">FINANCIAL GROUP</text>
+  <!-- Lincoln profile silhouette (facing right) -->
+  <g transform="translate(8,4)" fill="#003366">
+    <!-- Head/hair -->
+    <path d="M10,2 Q17,1 21,5 Q25,9 25,14 Q25,18 23,21 Q26,22 26,26 Q25,30 22,32 Q19,36 15,38 Q11,39 8,37 Q5,35 5,31 Q5,27 8,25 Q6,22 6,18 Q5,12 7,7 Z"/>
+    <!-- Nose detail -->
+    <path d="M23,21 Q28,22 27,26 Q25,30 22,32" fill="none" stroke="#003366" stroke-width="0"/>
+    <!-- Shirt/collar -->
+    <path d="M8,37 Q5,40 6,42 L18,42 Q19,39 15,38 Q11,39 8,37 Z"/>
+  </g>
+  <!-- Lincoln text -->
+  <text x="45" y="24" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#003366" letter-spacing="-0.3">Lincoln</text>
+  <text x="45" y="38" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="300" fill="#003366" letter-spacing="0.2">Financial Group®</text>
 </svg>
